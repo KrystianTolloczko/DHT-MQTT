@@ -1,2 +1,2 @@
 # DHT_MQTT
-# Simple script to read data from DHT sensor and send it as MQTT message
+# Simple script to read data from DHT22 sensor and send it as a MQTT message.
